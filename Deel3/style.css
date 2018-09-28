@@ -1,0 +1,48 @@
+*{
+	font-family: 'Noto Serif', serif;
+}
+
+header{
+	background-color: #974989;
+}
+
+nav{
+	height: 2.5em;
+	padding-top: 1em;
+	padding-left: 0.2em;
+}
+
+nav a{
+	background-color: #B565A7;
+	color: #FFFFFF;
+	text-decoration: none;
+	padding: 0.2em;
+}
+
+.icon{
+	float: right;
+	filter: brightness(0) invert(1);
+	padding-right: 1em;
+}
+
+h1{
+	color: #974989;	
+}
+
+table{
+	background-color: #C091B8;
+	width: 100%;
+}
+
+th{
+	background-color: #974989;
+}
+iframe{
+	padding-left: 1.5em;
+}
+
+
+footer{
+	background-color: #974989;
+	color: #FFFFFF;
+}
